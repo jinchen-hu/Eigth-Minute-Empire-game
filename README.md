@@ -1,4 +1,4 @@
-## Eighte Minute Empire Game -- TEAM 18
+## Eighte Minute Empire Game
 
 ### Introduction
 
@@ -119,14 +119,4 @@ Instructions for the map and game components
 
 * The ording of driving cards is determined by the bidding at the biginning of the game
 
-
-
-### Team Member
-
-|          Name          | ID number |
-| :--------------------: | :-------: |
-|   Brenden Bissessar    | 40044016  |
-| Celestino Ballesteros  | 40014087  |
-| Mohamed Tahar Mustapha | 40084897  |
-|       Jinchen Hu       | 40080398  |
 
